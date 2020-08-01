@@ -1,0 +1,3 @@
+0 Wohnzimmer
+1 Küchen
+2 Kinderzimmer
